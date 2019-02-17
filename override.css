@@ -1,0 +1,15 @@
+.container{
+    max-width: 960px;
+    margin: auto;
+    background-color: #ffffff
+  }
+
+  .navbar-brand {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    justify-content: center;
+    border: 3 px, solid, black;
+  }
+  .contact-form {
+    border: 3px, solid, black;
+  }
